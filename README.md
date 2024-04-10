@@ -24,7 +24,7 @@ It assists in auditing the security posture of a network by identifying potentia
 
 from the command line enter below command:
 
-python <python-filename>
+`python <python-filename>`
 
 **Below is the sample snapshot of the output**
 

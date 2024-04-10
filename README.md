@@ -20,10 +20,19 @@ It assists in auditing the security posture of a network by identifying potentia
 
 2. **Basic Scanning**: To perform a basic scan of a target host or network, simply open a terminal and type `nmap <target>`, where `<target>` can be an IP address, hostname, or network range.
 
+**How to run the python file**
+
+from the command line enter below command:
+
+python <python-filename>
+
+**Below is the sample snapshot of the output**
 
 
 
-Once the scan is complete, carefully analyze the results to identify open ports, services, and potential security vulnerabilities. Pay attention to the state of ports (open, closed, filtered), service versions, and operating system guesses provided by Nmap.
+![image](https://github.com/adi1239/Network-Security-nmap/assets/48907223/cd273baf-b58f-48c0-8645-1483aaa66735)
+
+
 
 
 
